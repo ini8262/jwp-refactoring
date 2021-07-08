@@ -46,7 +46,6 @@ public class TableGroupService {
         }
 
         final TableGroup savedTableGroup = orderTableGroupRepository.save(tableGroup);
-        savedTableGroup.changeEmpty(false);
 
         return savedTableGroup;
     }
