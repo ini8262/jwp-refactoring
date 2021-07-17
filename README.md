@@ -88,8 +88,10 @@
         └─event
 ```
 
-## 테이블 스키마
-![ERD](module-app-web/src/main/resources/db/erd/erd.png)
+## 관계도
+![ERD](module-app-web/src/main/resources/static/diagram/erd.png)
+
+![객체 결합](module-app-web/src/main/resources/static/diagram/object.png)
 
 ## 용어 사전
 
